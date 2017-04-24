@@ -1,13 +1,10 @@
 # fortune
-New fortunes for the UNIX FORTUNE program, and a script to make more.
-
-You'll probably want to install fortune so that you have 'strfile' installed, because you'll need it to create the dat file.
-If you're on OSX, I recommend https://github.com/johnpneumann/Fortune-OSX
+If you're looking for new fortunes for fortune, then it's fortunate that you've stumbled on this repo!
 
 Of note in this repo is fortunefilecreator.sh
 It's nothing special, or particularly good, but it does the job. I'm sure you can do it better: please do; I stop caring once it works. :shipit:
 
- You feed it a text file with fortunes separated by empty lines containing linefeeds (just LF, not CRLF-- we're on UNIX, eh buddy?) and it spits out the %-delimited fortune file and runs strfile to create the requisite .dat.
+You feed it a text file with fortunes separated by empty lines containing linefeeds (just LF, not CRLF-- we're on UNIX, eh buddy?) and it spits out the %-delimited fortune file and runs strfile to create the requisite .dat.
 
 Your input text file needs to look like this:
 
@@ -31,3 +28,7 @@ Example:
 Output: bobross bobross.dat
 Usage: fortune /path/to/bobross
 ```
+
+You'll probably want to install fortune so that you have 'strfile' installed, because you'll need it to create the dat file.
+If you're on OSX, I recommend https://github.com/johnpneumann/Fortune-OSX
+
