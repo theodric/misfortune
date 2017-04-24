@@ -20,7 +20,7 @@ Savor kindness because cruelty is always possible later.
 In a dream you saw a way to survive and you were full of joy.
 ```
 
-Running fortunefilecreator.sh with no arguments tells you what you need to know.
+Running fortunefilecreator.sh with no arguments will also tell you what you need to know.
 
 ```
 Takes a text file with blocks of text separated by whole blank lines and turns it into a %-delimited fortune file and a corresponding dat file.
