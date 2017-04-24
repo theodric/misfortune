@@ -35,6 +35,7 @@ Usage: fortune /path/to/bobross
 
 You'll probably want to install fortune so that you have 'strfile' installed, because you'll need it to create the dat file. Also, these aren't of much use to you without fortune installed.
 If you're on OSX, I recommend https://github.com/johnpneumann/Fortune-OSX
+Also, you'll need GNU sed, and not that BSD crap that OS X ships with. ```brew install gnu-sed --with-default-names``` will sort you out.
 
 Incidentally, I recommend checking the output file after you run the script just to confirm that everything is sane, i.e. no missing % (there needs to be one under each fortune) and no blank lines with a % under them (because that will result in a blank fortune). You can clean this up in a text editor, then run e.g. ```strfile bobross bobross.dat``` to regenerate the dat file.
 
@@ -42,3 +43,4 @@ Incidentally, I recommend checking the output file after you run the script just
 Thanks to bradthemad for [his page](http://bradthemad.org/tech/notes/fortune_makefile.php) showing me what needed to be done.
 
 Thanks to johnpneumann for [Fortune-OSX](https://github.com/johnpneumann/Fortune-OSX).
+
