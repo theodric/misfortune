@@ -1,8 +1,10 @@
 # fortune
 If you're looking for new fortunes for fortune, then it's fortunate that you've stumbled on this repo!
 
-Of note in this repo is fortunefilecreator.sh
-It's nothing special, or particularly good, but it does the job. I'm sure you can do it better: please do; I stop caring once it works. :shipit:
+
+
+Also of note in this repo is fortunefilecreator.sh
+In case you couldn't guess, it creates fortune files. It's nothing special, or particularly good, but it does the job. I'm sure you can do it better: please do; I stop caring once it works. :shipit:
 
 You feed it a text file with fortunes separated by empty lines containing linefeeds (just LF, not CRLF-- we're on UNIX, eh buddy?) and it spits out the %-delimited fortune file and runs strfile to create the requisite .dat.
 
