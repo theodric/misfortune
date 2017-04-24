@@ -5,7 +5,7 @@ printf "\Takes a text file with blocks of text separated by whole blank lines an
 printf "\nUsage: $0 inputfile outputfile\n";
 printf "\nExample 1: "
 printf "$0 brc.txt bobross \n";
-printf "Output: bobross bobross.dat \n";
+printf "Output: bobross bobross.dat \n\n";
 exit 1; }
 
 cat $1 | perl -p -e 's/^\n/%/g' | sed 's/^%/%\n/g' > $2 ; strfile $2 $2.dat
