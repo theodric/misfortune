@@ -40,4 +40,5 @@ Incidentally, I recommend checking the output file after you run the script just
 
 # Thanks
 Thanks to [bradthemad](http://bradthemad.org/tech/notes/fortune_makefile.php) for showing me what needed to be done.
+
 Thanks to johnpneumann for [Fortune-OSX](https://github.com/johnpneumann/Fortune-OSX).
