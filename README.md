@@ -39,6 +39,6 @@ If you're on OSX, I recommend https://github.com/johnpneumann/Fortune-OSX
 Incidentally, I recommend checking the output file after you run the script just to confirm that everything is sane, i.e. no missing % (there needs to be one under each fortune) and no blank lines with a % under them (because that will result in a blank fortune).
 
 # Thanks
-Thanks to [bradthemad](http://bradthemad.org/tech/notes/fortune_makefile.php) for showing me what needed to be done.
+Thanks to bradthemad for [his page](http://bradthemad.org/tech/notes/fortune_makefile.php) showing me what needed to be done.
 
 Thanks to johnpneumann for [Fortune-OSX](https://github.com/johnpneumann/Fortune-OSX).
