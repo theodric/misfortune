@@ -33,7 +33,7 @@ Output: bobross bobross.dat
 Usage: fortune /path/to/bobross
 ```
 
-You'll probably want to install ```fortune``` so that you have ```strfile``` installed, because you'll need it to create the dat file. Also, these aren't of much use to you without ```fortune``` installed.
+You'll probably want to install ```fortune``` so that you have ```strfile``` installed, because you'll need it to create the dat file. Also, these aren't of much use to you without ```fortune``` installed to, you know, display the fortunes.
 If you're on OSX, I recommend https://github.com/johnpneumann/Fortune-OSX
 
 Additionally, you'll need GNU ```sed```, and not that BSD :poop: that OS X ships with. ```brew install gnu-sed --with-default-names``` will sort you out.
