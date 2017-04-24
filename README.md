@@ -23,8 +23,8 @@ Usage: fortune /path/to/bobross
 Your input text file needs to look like this:
 
 
-Alienation produces eccentrics or revolutionary.
+`Alienation produces eccentrics or revolutionary.
 
 Savor kindness because cruelty is always possible later.
 
-In a dream you saw a way to survive and you were full of joy.
+In a dream you saw a way to survive and you were full of joy.`
