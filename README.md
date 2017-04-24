@@ -1,5 +1,5 @@
 # misfortune
-If you're looking for new fortunes for fortune, then it's fortunate that you've stumbled on this repo!
+If you're looking for new fortunes for ```fortune```, then it's fortunate that you've stumbled on this repo!
 
 ![fortune | cowsay | lolcat](https://github.com/theodric/misfortune/raw/master/misfortune.png)
 
