@@ -2,7 +2,7 @@
 If you're looking for new fortunes for fortune, then it's fortunate that you've stumbled on this repo!
 
 * bobross: the contents of http://www.bobrossquotes.com/quotes.shtml in fortune form
-* jennyholzer: a collection of quotes from [notable quotable neo-conceptualist artist Jenny Holzer](https://en.wikipedia.org/wiki/Jenny_Holzer), of large scrolling LED sign installation fame. These were found various places around the Internet. If you've been through Amsterdam Schiphol airport in the last 22 years, you probably saw at least [one of her pieces](https://www.youtube.com/watch?v=6IGEoVJG39Y) there.
+* jennyholzer: a collection of quotes from [notable quotable neo-conceptualist artist Jenny Holzer](https://en.wikipedia.org/wiki/Jenny_Holzer), of large scrolling LED sign installation fame. These quips were found in various places around the Internet, and are presented here for your confusion. If you've been through Amsterdam Schiphol airport in the last 22 years, you probably saw at least [one of her pieces](https://www.youtube.com/watch?v=6IGEoVJG39Y) there.
 * randomquotes: if this directory exists, then it contains random quotes that I liked. If not, then I haven't gotten around to creating it yet.
 
 Also of note in this repo is ```fortunefilecreator.sh```.
