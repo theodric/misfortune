@@ -5,7 +5,7 @@ If you're looking for new fortunes for fortune, then it's fortunate that you've 
 * jennyholzer: a collection of quotes from [notable quotable neo-conceptualist artist Jenny Holzer](https://en.wikipedia.org/wiki/Jenny_Holzer), of large scrolling LED sign installation fame. If you've been through Amsterdam Schiphol airport in the last 22 years, you probably saw at least [one of her pieces](https://www.youtube.com/watch?v=6IGEoVJG39Y) there. Collected from around the Internet.
 * randomquotes: if this directory exists, then it contains random quotes that I liked. If not, then I haven't gotten around to creating it yet.
 
-Also of note in this repo is fortunefilecreator.sh
+Also of note in this repo is ```fortunefilecreator.sh```.
 In case you couldn't guess, it creates fortune files. It's nothing special, or particularly good, but it does the job. I'm sure you can do it better: please do; I stop caring once it works. :shipit:
 
 You feed it a text file with fortunes separated by empty lines containing linefeeds (just LF, not CRLF-- we're on UNIX, eh buddy?) and it spits out the %-delimited fortune file and runs strfile to create the requisite .dat.
