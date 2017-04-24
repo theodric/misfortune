@@ -1,4 +1,5 @@
 #!/bin/bash
+#theodric 2017-04-24
 #yomama
 [[ $@ ]] || {
 printf "\nTakes a text file with blocks of text separated by whole blank lines and turns it into a %-delimited fortune file and a corresponding dat file.\n"
