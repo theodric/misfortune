@@ -1,4 +1,4 @@
-# fortune
+# misfortune
 If you're looking for new fortunes for fortune, then it's fortunate that you've stumbled on this repo!
 
 * bobross: the contents of http://www.bobrossquotes.com/quotes.shtml in fortune form
