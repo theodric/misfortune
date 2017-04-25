@@ -7,6 +7,7 @@ If you're looking for new fortunes for ```fortune```, then it's fortunate that y
 * jennyholzer: a collection of quotes from [notable quotable neo-conceptualist artist Jenny Holzer](https://en.wikipedia.org/wiki/Jenny_Holzer), of large scrolling LED sign installation fame. These quips were found in various places around the Internet, and are presented here for your confusion. If you've been through Amsterdam Schiphol airport in the last 22 years, you probably saw at least [one of her pieces](https://www.youtube.com/watch?v=6IGEoVJG39Y) there.
 * zizek: sniffing and pontificating from radical Hegelian Marxist philosopher Slavoj Žižek
 * randomquotes: if this directory exists, then it contains random quotes that I like. If not, then I haven't gotten around to creating it yet.
+* poli: genius-level political insight
 
 Also of note in this repo is ```fortunefilecreator.sh```.
 In case you couldn't guess, it creates fortune files. It's nothing special, or particularly good, but it does the job. I'm sure you can do it better: please do; I stop caring once it works. :shipit:
