@@ -8,6 +8,7 @@ If you're looking for new fortunes for ```fortune```, then it's fortunate that y
 * zizek: sniffing and pontificating from radical Hegelian Marxist philosopher Slavoj Žižek
 * randomquotes: if this directory exists, then it contains random quotes that I like. If not, then I haven't gotten around to creating it yet.
 * poli: genius-level political insight
+* minilinux: Fortunes scraped from 1993's Slackware release distributed as "MiniLinux" which could be installed and launched from within MS-DOS.
 
 Also of note in this repo is ```fortunefilecreator.sh```.
 In case you couldn't guess, it creates fortune files. It's nothing special, or particularly good, but it does the job. I'm sure you can do it better: please do; I stop caring once it works. :shipit:
