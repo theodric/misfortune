@@ -45,7 +45,7 @@ Usage: fortune /path/to/bobross
 ```
 
 You'll probably want to install ```fortune``` so that you have ```strfile``` installed, because you'll need it to create the dat file. Also because none of this is of much use to you without ```fortune``` installed to, you know, display the fortunes.
-If you're on OSX, I recommend https://github.com/johnpneumann/Fortune-OSX
+If you're on OSX, I recommend my fork of johnpneumann's now-archived Fortune-OSX port https://github.com/theodric/Fortune-OSX
 
 Additionally, you'll need GNU ```sed```, and not that BSD :poop: that OS X ships with. Linux users will be fine; for Macs, ```brew install gnu-sed --with-default-names``` will sort you out. BSD people are on their own, but you're probably used to that by now. :neckbeard:
 
