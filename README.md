@@ -7,7 +7,7 @@ If you're looking for new fortunes for ```fortune```, then it's fortunate that y
 * 9front/theo: from the 9front project, quotes from OpenBSD founder Theo de Raadt
 * 9front/troll: from the 9front project, fortunes designed to provoke and annoy
 * PCoK: back in the 90s/00s there was a collaborative writing/trolling site called "Pete's Compendium of Knowledge." These quotes are from there.
-* alexjones: the lucid and cogent potifications of the world's premiere policy wonk
+* alexjones: the lucid and cogent pontifications of the world's premiere policy wonk
 * bobross: the contents of http://www.bobrossquotes.com/quotes.shtml in fortune form
 * jennyholzer: a collection of quotes from [notable quotable neo-conceptualist artist Jenny Holzer](https://en.wikipedia.org/wiki/Jenny_Holzer), of large scrolling LED sign installation fame. These quips were found in various places around the Internet, and are presented here for your confusion. If you've been through Amsterdam Schiphol airport in the last 22 years, you probably saw at least [one of her pieces](https://www.youtube.com/watch?v=6IGEoVJG39Y) there.
 * minilinux: 'Zippy' Fortunes scraped from 1993's Slackware release distributed in 1995 as "MiniLinux" which could be installed and launched from within MS-DOS.
