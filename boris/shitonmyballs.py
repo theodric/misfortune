@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Define file paths
-input_file = 'input.txt'  # Replace with your input file name
+input_file = 'boris2.txt'  # Replace with your input file name
 output_file = 'output.txt'  # Output file name
 
 # Open input file for reading and output file for writing
