@@ -18,7 +18,7 @@ If you're looking for new fortunes for ```fortune```, then it's fortunate that y
 * poli: genius-level political insight
 * randomquotes: if this directory exists, then it contains random quotes that I like. If not, then I haven't gotten around to creating it yet.
 * zizek: sniffing and pontificating from radical Hegelian Marxist philosopher Slavoj Žižek
-
+* cowfart.cow: a farting cow for you to use with 'cowthink' (part of the 'cowsay' package on most distributions)
 
 Also of note in this repo is ```fortunefilecreator.sh```.
 In case you couldn't guess, it creates fortune files. It's nothing special, or particularly good, but it does the job. I'm sure you can do it better: please do; I stop caring once it works. :shipit:

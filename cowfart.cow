@@ -1,0 +1,12 @@
+# Cowfart
+#
+$the_cow = <<EOC;
+         $thoughts
+	    $thoughts								
+                $thoughts 
+            ^__^    $thoughts  
+            (oo)\_______ $thoughts
+            (__)\       )\/\ $thoughts
+                ||----w |
+                ||     ||
+EOC
