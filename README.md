@@ -15,6 +15,7 @@ If you're looking for new fortunes for ```fortune```, then it's fortunate that y
 * jennyholzer: a collection of quotes from [notable quotable neo-conceptualist artist Jenny Holzer](https://en.wikipedia.org/wiki/Jenny_Holzer), of large scrolling LED sign installation fame. These quips were found in various places around the Internet, and are presented here for your confusion. If you've been through Amsterdam Schiphol airport in the last 22 years, you probably saw at least [one of her pieces](https://www.youtube.com/watch?v=6IGEoVJG39Y) there.
 * minilinux: 'Zippy' Fortunes scraped from 1993's Slackware release distributed in 1995 as "MiniLinux" which could be installed and launched from within MS-DOS.
 * off: these are the 'offensive' fortunes that are slowly being yoinked from distributions due to the off-the-rails level of political correctness and its associated iconoclasm currently prevailing in the Open Source world as well as our broader culture. The specific files provided here were extracted from openSUSE Tumbleweed in late November, 2024.
+* princephilip: quips from the last man in Britain who couldn't be arrested for racism
 * poli: genius-level political insight
 * randomquotes: if this directory exists, then it contains random quotes that I like. If not, then I haven't gotten around to creating it yet.
 * zizek: sniffing and pontificating from radical Hegelian Marxist philosopher Slavoj Žižek
