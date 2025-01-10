@@ -8,7 +8,7 @@ If you're looking for new fortunes for ```fortune```, then it's fortunate that y
 * 9front/troll: from the 9front project, fortunes designed to provoke and annoy
 * PCoK: back in the 90s/00s there was a collaborative writing/trolling site called "Pete's Compendium of Knowledge." These quotes are from there.
 * alexjones: the lucid and cogent pontifications of the world's premiere policy wonk
-* awobmolg: the complete text of the poetry book "All Watched Over By Machines of Loving Grace" by Richard Brautigan. Given his proximity to the early days of computing, and the free license under which he published his work ("Permission is granted to reprint any of these poems in magazines, books and newspapers if they are given away free.") it seems only appropriate to include this work in my repository of fortune files.
+* awobmolg: the complete text of the poetry book "All Watched Over By Machines of Loving Grace" by Richard Brautigan. Given his proximity to the early days of computing, and the free license under which he published his work ("Permission is granted to reprint any of these poems in magazines, books and newspapers if they are given away free.") it seems only appropriate to include these poems in my repository of fortune files.
 * bash.org: ~20,000 bash.org qdb entries converted into fortunes
 * billcooper: mostly quotes from ur-conspiracist William Cooper's book "Behold A Pale Horse"
 * bobross: the contents of http://www.bobrossquotes.com/quotes.shtml in fortune form
